@@ -44,6 +44,29 @@ then I started filling out a template for products that I like. each block of ce
 <img width="906" height="805" alt="Снимок экрана 2025-09-19 в 00 45 48" src="https://github.com/user-attachments/assets/994fad32-a712-4f0b-86ec-f104b04d3dbf" />  
 
 
+**Important notes and primary conclusions (Miro)**
+
+* My analysis is rather superficial. This is because you need to understand the principle. Of course, there's a lot to go into here. For example, in competitor analysis. There really is something to do. In order to save time for the main task, I will leave it at the surface level. If, after a discussion with the teacher, he pays attention to the points that need to be changed, I will do it.
+
+
+* I noticed that I had not highlighted the block with the problem sufficiently. If it is not highlighted separately, it is more difficult to answer the question "how should the product solve the problem?"
+
+* At first, I want to make the "why do I use this" and "why do I like it" blocks almost identical, and at first I did so. but while filling in the blocks, I realized the difference between them, so the "why do I use this" block became a reflection of how the product solves my individual task.
+
+* Definitely, during this assignment, I am not implementing all the miro functionality - for example, I do not find the relationship between different products, blocks. if I had performed the task more efficiently, then it would have been possible to draw conclusions from there - for example, why did I choose these products? is this related to the tasks at this stage of my life for me? I think based on this, it would be possible to make an approximate description of consumers of the same social group to which I belong.
+
+* I will try to rationalize these and the following points when performing the next task, when the development of a specific product is required.
+
+## Miro mind map  
+
+[**link to the mind map in Miro**](https://miro.com/app/board/uXjVJGNj9io=/?share_link_id=897472404516)
+
+
+
+
+
+
+
 
 
 
