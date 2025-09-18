@@ -61,6 +61,15 @@ then I started filling out a template for products that I like. each block of ce
 
 [**link to the mind map in Miro**](https://miro.com/app/board/uXjVJGNj9io=/?share_link_id=897472404516)
 
+Also at this stage, I discovered that I can export my mind maps using the "Frames" function.  it turned out to be 2 frames and 2 pages in pdf format. In fact, at this stage, I could finish the presentation. The pdf files will be attached by me to this repository.
+
+I made a video recording of the screen to demonstrate this.
+
+
+
+https://github.com/user-attachments/assets/43e80cff-8e72-496c-8c1d-15e22850c8ee
+
+
 
 
 
