@@ -24,3 +24,27 @@ Since the miro and figma tools are new to me, I first need to figure out how to 
 The biggest problem came in the form of a list of products. The list of products you like should not look too banal. On the other hand, when making a list of negative products, the thought lies on the surface that I like everything I use - realizing that this is a mistake of thinking, I decided to make a list of those products that I use, but the disadvantages of which I have to put up with for various reasons - with this formulation, the task becomes much easier.
 
 It may not be too organic, but the mind map and presentation will be done in Russian - because this is my native language and it's easier for me to make draft notes in it.
+
+## Making a list of products 
+
+I used noteson my Iphone to do this part. I also tried to highlight the products that I use in my work and studies in order to train myself to analyze what I use in a field where efficiency is especially important to me.
+
+![IMG_30C876AAE75D-1](https://github.com/user-attachments/assets/08c64fe3-ceec-4905-b6c6-a6369b98d6d1)
+
+## Creating a Mind map using Miro
+
+this is my first experience interacting with Miro. I didn't look at the training materials, I started working with the service intuitively. For this reason, I cannot be sure that I have used the functionality adequately.
+
+First, I chose a template that I thought would be suitable for structuring information on each of the products. The template was selected by me from the list of templates when I typed "product" in the search. in the screenshot, I marked the template I selected.  
+
+<img width="1405" height="805" alt="Снимок экрана 2025-09-19 в 00 40 34" src="https://github.com/user-attachments/assets/37dbfa38-38d0-4a12-bda7-9f75ae41f9ac" />  
+
+then I started filling out a template for products that I like. each block of cells contains the required product information. The template was copied by me and the second one contains information on the products that I need.
+
+<img width="906" height="805" alt="Снимок экрана 2025-09-19 в 00 45 48" src="https://github.com/user-attachments/assets/994fad32-a712-4f0b-86ec-f104b04d3dbf" />  
+
+
+
+
+
+
